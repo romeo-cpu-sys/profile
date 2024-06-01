@@ -6,7 +6,7 @@
   I code from time to time.
 </p>
 
-#Languages
+the two most used languages by me currently
 
 <p align="center">
   <img width="20%" src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" alt="c++" /> 
